@@ -1,7 +1,7 @@
 import './sass/main.scss';
 import ApiService from './apiService';
 import getRefs from './refs';
-import photoCardTpl from './photo-card.hbs';
+import photoCardTpl from './partials/photo-card.hbs';
 import * as basicLightbox from 'basiclightbox';
 import 'basiclightbox/dist/basicLightbox.min.css';
 
