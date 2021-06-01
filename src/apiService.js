@@ -1,6 +1,6 @@
   
 const BASE_URL = 'https://pixabay.com/api/';
-const KEY = '21770842-53e4556542a78f410456386ee';
+const KEY = '21871617-b6c017e197c87b65c1236d2d8';
 
 export default class NewsApiService {
   constructor() {
